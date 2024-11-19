@@ -1,0 +1,20 @@
+# Ignorar arquivos e pastas específicas do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignorar arquivos relacionados ao macOS Finder
+Icon?
+._*
+
+# Ignorar arquivos do macOS "com.apple.*" que podem ser gerados por Finder
+com.apple.*
+
+# Ignorar cookies gerados pelo sistema
+cookie.txt
+
+# Ignorar logs e arquivos de depuração
+*.log
+
+# Ignorar diretórios do sistema de compilação PHP
+vendor/
